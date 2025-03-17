@@ -1,4 +1,4 @@
-enum Level {
+enum Day {
     MONDAY , 
     TUESDAY , 
     WEDNESDAY ,
@@ -10,7 +10,7 @@ enum Level {
 
 public class LearningEnum {
     public static void main(String[] args) {
-        Level mylevel = Level.FRIDAY;
-        System.out.println(mylevel);
+        Day today = Day.FRIDAY;
+        System.out.println(today);
     }
 }
