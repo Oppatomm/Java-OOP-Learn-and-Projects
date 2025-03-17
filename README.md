@@ -6,7 +6,7 @@
 │   ├── Polymorphism_MethodOverloading.java
 │   └── Polymorphism_MethodOverride.java
 │   
-└── project/
+└── projects/
 │   ├── small_projects/
 │   │   ├── Calculate_Employee_Salary_Using_Abstract_Class_and_Interface.java
 │   │   ├── Calculate_the_Area_of_Geometric_Shapes_Using_Inheritance.java
