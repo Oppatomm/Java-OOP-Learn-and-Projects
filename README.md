@@ -9,7 +9,8 @@
 │   └── enum/
 │       ├── LearningEnum.java
 │       ├── LearningEnum_Method.java
-│       └── LearningEnum_Switchcase.java
+│       ├── LearningEnum_Switchcase.java
+│       └── LearningEnum_values.java
 │
 └── projects/
 │   ├── small_projects/
