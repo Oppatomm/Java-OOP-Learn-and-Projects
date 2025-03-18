@@ -8,7 +8,7 @@ enum Day {
     SUNDAY
 }
 
-public class LearningEnum_Switchcase {
+public class LearningEnum_switchcase {
     public static void main (String [] args) {
         Day today = Day.MONDAY;
 
