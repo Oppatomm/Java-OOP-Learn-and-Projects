@@ -21,7 +21,8 @@
 │   │   ├── Calculate_the_Area_of_Geometric_Shapes_Using_Inheritance.java
 │   │   ├── Farm_Animal_Sounds_Using_Polymorphism.java
 │   │   ├── Filter_even_numbers_from_a_list_using_a_Lambda_Expression.java
-│   │   └── Manage_student_data_using_Encapsulation.java
+│   │   ├── Manage_student_data_using_Encapsulation.java
+│   │   └── Workday_Display_System_Using_Enum.java
 │   │  
 │   └── medium_project/
 │       └── Bookstore_Management_System.java
