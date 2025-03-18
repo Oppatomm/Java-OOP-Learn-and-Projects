@@ -15,7 +15,6 @@ public class LearningEnum_switchcase {
         switch (today) {
             case MONDAY , TUESDAY , WEDNESDAY , THURSDAY , FRIDAY -> System.out.println("Weekday");
             case SATURDAY , SUNDAY -> System.out.println("Weekend");
-            default -> System.out.println("Invalid day");
         }
     }
 }
