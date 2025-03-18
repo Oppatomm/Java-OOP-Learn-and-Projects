@@ -10,6 +10,7 @@
 │       ├── LearningEnum.java
 │       ├── LearningEnum_Method.java
 │       ├── LearningEnum_Switchcase.java
+        ├── LearningEnum_valueOf.java
 │       └── LearningEnum_values.java
 │
 └── projects/
