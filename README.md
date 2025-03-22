@@ -25,6 +25,7 @@
 │   │   └── LearningEnum_values.java
 │   │
 │   └── stream/
+│       ├── Intermediate_Operations.java
 │       └── StreamBasic.java
 │
 ├── projects/
