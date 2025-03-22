@@ -8,7 +8,10 @@
 │   │
 │   ├── association/
 │   │   ├── aggregation/
+│   │   │   └── AggregationExample.java
+│   │   │
 │   │   ├── composition/
+│   │   │
 │   │   └── AssociationExample.java
 │   │
 │   └── enum/
