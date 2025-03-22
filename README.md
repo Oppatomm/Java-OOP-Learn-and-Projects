@@ -11,6 +11,7 @@
 │   │   │   └── AggregationExample.java
 │   │   │
 │   │   ├── composition/
+│   │   │   └── CompositionExample.java
 │   │   │
 │   │   └── AssociationExample.java
 │   │
