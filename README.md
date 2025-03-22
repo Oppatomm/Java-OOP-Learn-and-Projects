@@ -15,14 +15,17 @@
 │   │   │
 │   │   └── AssociationExample.java
 │   │
-│   └── enum/
-│       ├── LearningEnum_compareTo.java
-│       ├── LearningEnum.java
-│       ├── LearningEnum_Method.java
-│       ├── LearningEnum_ordinal.java
-│       ├── LearningEnum_switchcase.java
-│       ├── LearningEnum_valueOf.java
-│       └── LearningEnum_values.java
+│   ├── enum/
+│   │   ├── LearningEnum_compareTo.java
+│   │   ├── LearningEnum.java
+│   │   ├── LearningEnum_Method.java
+│   │   ├── LearningEnum_ordinal.java
+│   │   ├── LearningEnum_switchcase.java
+│   │   ├── LearningEnum_valueOf.java
+│   │   └── LearningEnum_values.java
+│   │
+│   └── stream/
+│       └── StreamBasic.java
 │
 ├── projects/
 │   ├── small_projects/
