@@ -7,6 +7,8 @@
 │   ├── Polymorphism_MethodOverride.java
 │   │
 │   ├── association/
+│   │   ├── aggregation/
+│   │   ├── composition/
 │   │   └── AssociationExample.java
 │   │
 │   └── enum/
