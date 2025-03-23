@@ -34,6 +34,7 @@
 │   │   ├── Calculate_the_Area_of_Geometric_Shapes_Using_Inheritance.java
 │   │   ├── Farm_Animal_Sounds_Using_Polymorphism.java
 │   │   ├── Filter_even_numbers_from_a_list_using_a_Lambda_Expression.java
+│   │   ├── Filter_students_who_passed_the_exam_Using_Stream.java
 │   │   ├── Flight_Ticket_Management_System_Using_Enum.java
 │   │   ├── Manage_student_data_using_Encapsulation.java
 │   │   ├── Membership_Management_System_Using_Enum.java
