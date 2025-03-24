@@ -26,7 +26,10 @@
 │   │
 │   └── stream/
 │       ├── Intermediate_Operations.java
-│       └── StreamBasic.java
+│       ├── OptionalExample.java
+│       ├── StreamBasic.java
+│       ├── StreamChallenge.java
+│       └── Terminal_Operations.java
 │
 ├── projects/
 │   ├── small_projects/
